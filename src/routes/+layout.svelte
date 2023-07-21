@@ -1,7 +1,5 @@
-<div class="app">
+<script>
+    import "../app.css"
+</script>
 
-	<main class='w-full h-screen'>
-		<slot />
-	</main>
-
-</div>
+<slot />

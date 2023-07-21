@@ -11,7 +11,7 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-<section class='flex justify-center items-center w-full h-full gap-4 bg-slate-900 text-white'>
+<section class='flex justify-center items-center w-full h-screen gap-4 bg-slate-900 text-white'>
     <p class='font-medium text-lg'>Counter app: </p>
     <button
         class='rounded bg-indigo-500 px-4 py-2'
