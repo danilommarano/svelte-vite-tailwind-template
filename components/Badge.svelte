@@ -8,7 +8,7 @@
   export let radious: 'normal' | 'full' = 'normal';
   export let intensity: number = 50;
 
-  let buttonHeight: 'h-6';
+  let buttonHeight: 'h-8';
   let textSize = 'text-sm'
   let xPadding = 'px-2'
   let borderRadious: string;
